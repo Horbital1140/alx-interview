@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 def canUnlockAll(boxes):
     opened_boxes = {0}
     key_queue = boxes[0]
